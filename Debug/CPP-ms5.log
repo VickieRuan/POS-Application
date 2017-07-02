@@ -1,0 +1,4 @@
+﻿  PosApp.cpp
+c:\users\common\documents\visual studio 2015\projects\cpp-ms5\cpp-ms5\pos.h(5): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CPP-ms5.vcxproj -> c:\Users\common\documents\visual studio 2015\Projects\CPP-ms5\Debug\CPP-ms5.exe
+  CPP-ms5.vcxproj -> c:\Users\common\documents\visual studio 2015\Projects\CPP-ms5\Debug\CPP-ms5.pdb (Full PDB)
